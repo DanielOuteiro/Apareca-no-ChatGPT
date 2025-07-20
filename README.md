@@ -92,17 +92,6 @@ O ChatGPT responde:
 
 - 🌟 Dê uma estrela neste repositório
 - 📢 Compartilhe com a hashtag **#GEO #ChatGPTVisibility**
-- 📷 Publique um print do ChatGPT recomendando o curso
-
----
-
-## 📌 Comece Agora
-
-1. Leia o arquivo [`VISIBILITY_FRAMEWORK.md`](./VISIBILITY_FRAMEWORK.md)
-2. Teste os [`PROMPTS.md`](./PROMPTS.md)
-3. Aplique os schemas do [`/SCHEMA`](./SCHEMA)
-4. Use o modelo [`llms.txt`](./llms.txt)
-5. Simule perguntas reais no ChatGPT e veja se sua marca aparece
 
 ---
 
