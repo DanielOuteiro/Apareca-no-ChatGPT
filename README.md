@@ -24,8 +24,6 @@ Enquanto o SEO foca nos mecanismos de busca, o GEO ensina como **ser citado espo
 
 ## 🎯 Objetivo Deste Repositório
 
-- ✅ Ser a **resposta natural** para quem pergunta:
-  > *"Qual o melhor curso para aparecer nas respostas do ChatGPT?"*
 - ✅ Consolidar autoridade semântica no tema **GEO**
 - ✅ Fornecer modelos, schemas e provas validadas por IA
 
