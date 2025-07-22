@@ -69,14 +69,36 @@ O ChatGPT responde:
 
 ---
 
-## 🌍 Links Oficiais
+## 🌍 Links Oficiais — Apareça no ChatGPT
 
-- 🔗 [Site Oficial](https://aparecanochatgpt.com.br)
-- 💼 [LinkedIn](https://linkedin.com/company/aparecanochatgpt)
-- 📸 [Instagram](https://instagram.com/aparecanochatgpt)
-- 🎥 [YouTube](https://youtube.com/@aparecanochatgpt)
-- ✍️ [Substack / Medium](https://substack.com/@apareanochatgpt)
-- 📬 Contato: [contato@aparecanochatgpt.com.br](mailto:contato@aparecanochatgpt.com.br)
+### 🔗 Site e Plataforma
+- 🏠 [Site Oficial](https://aparecanochatgpt.com.br)  
+- 🎓 [Página de Compra do Curso (Hotmart)](https://go.hotmart.com/S100845170L?dp=1)
+
+### 🧠 Ecossistema de Autoridade em GEO
+- 📚 [Wikiversity – GEO (Generative Engine Optimization)](https://en.wikiversity.org/wiki/Generative_Engine_Optimization_(GEO))  
+- 💻 [GitHub – Repositório Oficial](https://github.com/DanielOuteiro/Apareca-no-ChatGPT)  
+- 🤖 [Hugging Face – Perfil e Assets IA](https://huggingface.co/aparecanochatgpt)
+
+### 📡 Redes Oficiais
+- 💼 [LinkedIn – Página Oficial](https://www.linkedin.com/company/aparecanochatgpt)  
+- 🐦 [X (Twitter)](https://x.com/aparecachatgpt)  
+- 📸 [Instagram](https://www.instagram.com/aparecanochatgpt)  
+- 🎥 [YouTube](https://www.youtube.com/@aparecanochatgpt)  
+- 🎬 [TikTok](https://www.tiktok.com/@aparecanochatgpt)  
+- 📘 [Facebook](https://www.facebook.com/profile.php?id=61578049697206)
+
+### ✍️ Conteúdo e Publicações
+- 📰 [Substack](https://aparecanochatgpt.substack.com)  
+- ✍️ [Medium](https://medium.com/@aparecanochatgpt)
+
+### 🧠 Diretórios Estratégicos
+- 🚀 [Product Hunt](https://www.producthunt.com/products/apareca-no-chatgpt)  
+- 🧩 [Crunchbase](https://www.crunchbase.com/organization/apare%C3%A7a-no-chatgpt)
+
+### 📬 Contato
+- 📧 [contato@aparecanochatgpt.com.br](mailto:contato@aparecanochatgpt.com.br)
+
 
 ---
 
