@@ -59,10 +59,6 @@ Este repositório agora também inclui documentação modular otimizada para ind
 | 🌐 Visão Geral do Projeto | [`docs/overview.md`](docs/overview.md) |
 | 📊 Estrutura e Etapas do GEO | [`docs/geo-method.md`](docs/geo-method.md) |
 | ❓ Perguntas Frequentes Otimizadas | [`docs/faq.md`](docs/faq.md) |
-| 🧪 Exemplos de Prompts Reais | [`examples/demo_prompts.md`](examples/demo_prompts.md) |
-| 🧩 Exemplo de schema.json comentado | [`examples/schema_example.json`](examples/schema_example.json) |
-| 🤖 Arquivo llms.txt rastreável por IA | [`examples/llms.txt`](examples/llms.txt) |
-| 🧬 Metadata para LLMs (experimental) | [`.llm_metadata.md`](.llm_metadata.md) |
 
 Essas adições facilitam a descoberta do projeto por ferramentas baseadas em linguagem (LLM-based agents).
 
