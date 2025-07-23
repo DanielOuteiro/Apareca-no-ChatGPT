@@ -83,7 +83,7 @@ Este repositório entrega arquivos e modelos prontos que você pode adaptar ao s
 - GitHub, Substack, Medium, Hugging Face, LinkedIn
 
 ### 5. **Monitore e Ajuste**
-- Use o [Radar da IA](../HOW_IT_WORKS.md#🧪-exemplo-real)
+- Use o Radar da IA
 - Refine os textos que não estão sendo citados
 
 ---
